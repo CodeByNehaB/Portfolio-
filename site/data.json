@@ -45,7 +45,7 @@
       "title": "Personal Portfolio Site",
       "description": "A \"from complexity to clarity\" portfolio built entirely from scratch — 3D particle hero, animated section transitions, and a recruiter-mode overlay.",
       "techSpecs": "Built from scratch with React, Tailwind, TypeScript, Vite, and Framer Motion — engineered for a smooth, animated, production-grade experience.",
-      "stack": ["React", "Tailwind", "TypeScript", "Vite", "Framer Motion"],
+      "stack": ["HTML", "CSS", "Vanila Javascript"],
       "github": "https://github.com/codeByNeha/Portfolio-/site",
       "livePreview": "https://portfolio-xz91.vercel.app"
     }
