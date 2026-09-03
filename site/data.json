@@ -1,0 +1,91 @@
+{
+  "name": "Neha Bawankar",
+  "role": "IT Technical Trainer · UX/UI Designer · Data Analyst",
+  "headline": ["Neha", "Bawankar"],
+  "tagline": "IT Technical Trainer & UX/UI Designer leveraging structured thinking to back design decisions with real data.",
+  "location": "Chhindwara, Madhya Pradesh, India",
+  "contact": {
+    "email": "nehabawankar88@gmail.com",
+    "phone": "+91-7999724775",
+    "github": "https://github.com/CodeByNehaB",
+    "linkedin": "https://www.linkedin.com/in/neha-n-bawankar-2282891b8/"
+  },
+  "skills": {
+    "Programming Languages": ["Java", "Python", "SQL", "JavaScript"],
+    "Frontend / Backend": ["HTML", "CSS", "Bootstrap", "Spring Boot", "Django"],
+    "Data Analytics & Libraries": ["Power BI", "Tableau", "Google BigQuery", "Databricks", "Excel", "Power Query", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
+    "Database": ["MySQL", "PostgreSQL", "SQL Server"],
+    "Tools & AI": ["Git", "GitHub", "VS Code", "Generative AI", "Google Stitch", "AWS", "Jupyter Notebook"],
+    "Design": ["Figma", "UX Research", "UI Design", "Prototyping", "Google Stitch"]
+  },
+  "impact": {
+    "projectsShipped": 3,
+    "toolsAndTechnologies": 26,
+    "certificationsEarned": 2,
+    "monthsTeaching": "8+"
+  },
+  "projects": [
+    {
+      "title": "Cloud Sales Analytics Dashboard",
+      "description": "An executive-facing sales dashboard with drill-down KPIs, regional breakdowns, and dynamic measures that update as filters change.",
+      "techSpecs": "Connected Power BI to Google BigQuery, transformed raw data with Power Query, and built dynamic DAX measures to power live, filterable KPIs.",
+      "stack": ["Power BI", "Google BigQuery", "Power Query", "DAX"],
+      "github": "https://github.com/codeByNeha/cloud-Analysis",
+      "livePreview": null
+    },
+    {
+      "title": "COVID-19 Data Analysis",
+      "description": "A time-series exploration of case and infection trends, built to surface patterns across regions and forecast where the curve heads next.",
+      "techSpecs": "Analyzed cases and infection trends (2020–2026) using SQL Server, and implemented Tableau forecasting through 2028.",
+      "stack": ["SQL Server", "T-SQL", "Tableau", "Forecasting"],
+      "github": "https://github.com/codeByNeha/covid-Analysis",
+      "livePreview": null
+    },
+    {
+      "title": "Personal Portfolio Site",
+      "description": "A \"from complexity to clarity\" portfolio built entirely from scratch — 3D particle hero, animated section transitions, and a recruiter-mode overlay.",
+      "techSpecs": "Built from scratch with React, Tailwind, TypeScript, Vite, and Framer Motion — engineered for a smooth, animated, production-grade experience.",
+      "stack": ["React", "Tailwind", "TypeScript", "Vite", "Framer Motion"],
+      "github": "https://github.com/codeByNeha/Portfolio",
+      "livePreview": null
+    }
+  ],
+  "experience": [
+    {
+      "role": "IT Technical Trainer",
+      "organization": "EduCADD Learning Solutions",
+      "description": "Delivered hands-on training across Java Full Stack development, Python, and UX/UI design principles — translating dense technical material into structured, practical learning for students moving into IT and design careers.",
+      "tags": ["Java Full Stack", "Python", "UX/UI Principles", "Hands-on Training"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MCA — Master of Computer Application",
+      "institution": "Jabalpur Engineering College, Jabalpur (MP)",
+      "dates": "Jul 2023 – Jul 2025",
+      "score": "CGPA 7.6/10",
+      "coursework": "DBMS, Machine Learning, Operating Systems, Computer Networks, Software Engineering, Cloud Computing."
+    },
+    {
+      "degree": "BSc — Bachelor of Science (CS)",
+      "institution": "Raja Shankar Shah University, Chhindwara (MP)",
+      "dates": "Jun 2019 – Jun 2022",
+      "score": "CGPA 69.3/10",
+      "coursework": "Foundations in programming, web technology, and mathematics."
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Career Essentials in Generative AI",
+      "issuer": "Microsoft & LinkedIn",
+      "year": 2024,
+      "viewUrl": "https://www.linkedin.com/in/neha-n-bawankar-2282891b8/details/certifications/"
+    },
+    {
+      "title": "Data Analytics Professional Certificate",
+      "issuer": "Udemy",
+      "year": 2026,
+      "viewUrl": null
+    }
+  ]
+}
