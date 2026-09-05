@@ -38,7 +38,7 @@
       "description": "A time-series exploration of case and infection trends, built to surface patterns across regions and forecast where the curve heads next.",
       "techSpecs": "Analyzed cases and infection trends (2020–2026) using SQL Server, and implemented Tableau forecasting through 2028.",
       "stack": ["SQL Server", "T-SQL", "Tableau", "Forecasting"],
-      "github": "https://github.com/CodeByNehaB/Data-anaytics/Projects/",
+      "github": "https://github.com/CodeByNehaB/Data-anaytics/",
       "livePreview": null
     },
     {
