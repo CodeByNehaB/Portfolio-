@@ -27,10 +27,10 @@
   "projects": [
     {
       "title": "IPL Analysis Dashboard",
-      "description": "An executive-facing sales dashboard with drill-down KPIs, regional breakdowns, and dynamic measures that update as filters change.",
-      "techSpecs": "Connected Power BI to Google BigQuery, transformed raw data with Power Query, and built dynamic DAX measures to power live, filterable KPIs.",
-      "stack": ["Power BI", "Google BigQuery", "Power Query", "DAX"],
-      "github": "https://github.com/codeByNeha/cloud-Analysis",
+      "description": "Developed an interactive IPL Data Analysis Dashboard (2008–2026) using Python, Pandas, NumPy, Matplotlib, Seaborn, and Streamlit to analyze team performance, player statistics, match results, and scoring trends through data visualization and interactive insights.",
+      "techSpecs": "Data Cleaning, Data Preprocessing, Exploratory Data Analysis (EDA), Statistical Analysis, Interactive Dashboard Development, Data Visualization..",
+      "stack": ["Python", "Pandas", "Numpy", "Matplotlib", "seaborn","Streamlit"],
+      "github": "https://github.com/CodeByNehaB/Data-anaytics/tree/main/Projects/",
       "livePreview": null
     },
     {
