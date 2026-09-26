@@ -26,7 +26,7 @@
   },
   "projects": [
     {
-      "title": "Cloud Sales Analytics Dashboard",
+      "title": "IPL Analysis Dashboard",
       "description": "An executive-facing sales dashboard with drill-down KPIs, regional breakdowns, and dynamic measures that update as filters change.",
       "techSpecs": "Connected Power BI to Google BigQuery, transformed raw data with Power Query, and built dynamic DAX measures to power live, filterable KPIs.",
       "stack": ["Power BI", "Google BigQuery", "Power Query", "DAX"],
@@ -49,6 +49,14 @@
       "github": "https://github.com/CodeByNehaB/Portfolio-/site",
       "livePreview": "https://portfolio-xz91.vercel.app"
     }
+     {
+      "title": "Cloud Sales Analytics Dashboard",
+      "description": "An executive-facing sales dashboard with drill-down KPIs, regional breakdowns, and dynamic measures that update as filters change.",
+      "techSpecs": "Connected Power BI to Google BigQuery, transformed raw data with Power Query, and built dynamic DAX measures to power live, filterable KPIs.",
+      "stack": ["Power BI", "Google BigQuery", "Power Query", "DAX"],
+      "github": "https://github.com/codeByNeha/cloud-Analysis",
+      "livePreview": null
+    },
   ],
   "experience": [
     {
