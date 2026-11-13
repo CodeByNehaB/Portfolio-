@@ -1,6 +1,6 @@
 # Neha Bawankar — Portfolio
 
-Personal portfolio site for Neha Bawankar — IT Technical Trainer, UX/UI Designer, and Data Analyst.
+Personal portfolio site for Neha Bawankar — IT Technical Trainer and Data Analyst.
 
 ## About
 
